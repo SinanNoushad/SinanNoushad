@@ -28,11 +28,12 @@ I’m Sinan Noushad, a versatile tech enthusiast with a passion for coding and c
 - Blender Artworks: 3D models and animations created in Blender.
 
 ## Skills & Tools
-|                                                                                                    |       
-| Knowledge|Learning                                                                                 | Tools
-|                                                                                                    |
-|[![My Knowledge](https://skillicons.dev/icons?i=py,html,css,c,cpp,nodejs,r)](https://skillicons.dev)   |
-|                                                                                                    |
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 ![Sinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinanNoushad&show_icons=true&theme=transparent)
 ## Hobbies 🎮
