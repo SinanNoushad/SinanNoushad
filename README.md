@@ -53,9 +53,6 @@ If you love coding (and pandas) as much as I do, let's build something amazing t
   <a href="https://www.instagram.com/s_i_n_a_n__03?igsh=cWJ4ZnM1c3J3aXp4">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="sinannaushad999@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
 </p>
 
 Feel free to explore my repositories, follow my updates, and reach out if you want to collaborate or chat about tech! 🚀
