@@ -29,7 +29,7 @@ I’m Sinan Noushad, a versatile tech enthusiast with a passion for coding and c
 
 ## Skills & Tools
 
-
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,c,cpp,nodejs,r)](https://skillicons.dev)
 
 ## Hobbies 🎮
 
