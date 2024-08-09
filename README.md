@@ -34,6 +34,7 @@ I’m Sinan Noushad, a versatile tech enthusiast with a passion for coding and c
 |[![My Knowledge](https://skillicons.dev/icons?i=py,html,css,c,cpp,nodejs,r)](https://skillicons.dev)   |
 |                                                                                                    |
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ## Hobbies 🎮
 
 I love gaming, and it's a significant part of my life, offering both an escape and inspiration for my coding adventures.
