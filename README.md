@@ -31,7 +31,7 @@ I’m Sinan Noushad, a versatile tech enthusiast with a passion for coding and c
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=py,r,c,html,css,blender,github,robloxstudio,unity,,figma,discord" />
   </a>
 </p>
 
