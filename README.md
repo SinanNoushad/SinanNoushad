@@ -47,7 +47,7 @@ If you love coding (and pandas) as much as I do, let's build something amazing t
 ## 🌟 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sinannoushad?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/sinannoushad">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.instagram.com/s_i_n_a_n__03?igsh=cWJ4ZnM1c3J3aXp4">
